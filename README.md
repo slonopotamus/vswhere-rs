@@ -1,7 +1,6 @@
 # vswhere-rs
 
-[![Travis CI](https://travis-ci.com/FaultyRAM/vswhere-rs.svg)][1]
-[![AppVeyor](https://ci.appveyor.com/api/projects/status/a6p7trkglc90jcd3?retina=true&svg=true)][2]
+[![Build Status](https://github.com/FaultyRAM/vswhere-rs/workflows/CI/badge.svg?branch=master)][CI]
 [![Crates.io](https://img.shields.io/crates/v/vswhere.svg)][3]
 [![Docs.rs](https://docs.rs/vswhere/badge.svg)][4]
 
@@ -57,8 +56,7 @@ submitted for inclusion in the work by you, as defined in the Apache-2.0
 license, shall be dual licensed as above, without any additional terms or
 conditions.
 
-[1]: https://travis-ci.com/FaultyRAM/vswhere-rs
-[2]: https://ci.appveyor.com/project/FaultyRAM/vswhere-rs
+[CI]: https://github.com/FaultyRAM/vswhere-rs/actions?query=branch%3Amaster
 [3]: https://crates.io/crates/vswhere
 [4]: https://docs.rs/vswhere
 [5]: https://github.com/Microsoft/vswhere
